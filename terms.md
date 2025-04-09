@@ -4,7 +4,7 @@
 
 ## はじめに
 
-これらの利用規約（以下「本規約」）は、Notion GPTs Autopilot（以下「本サービス」）の利用条件を定めるものです。本サービスを利用することにより、ユーザーは本規約に同意したものとみなされます。
+これらの利用規約（以下「本規約」）は、【テンプレ】NotionAPI (Read & Write)（以下「本サービス」）の利用条件を定めるものです。本サービスを利用することにより、ユーザーは本規約に同意したものとみなされます。
 
 ## サービスの説明
 
@@ -64,5 +64,4 @@
 
 本規約に関するご質問やご意見は、以下の連絡先までお願いします：
 
-- メール: [あなたのメールアドレス]
-- GitHubリポジトリ: [https://github.com/あなたのユーザー名/notion-gpts-autopilot/issues](https://github.com/あなたのユーザー名/notion-gpts-autopilot/issues)
+- GitHubリポジトリ: [https://github.com/rioto3/notion-gpts-autopilot/issues](https://github.com/rioto3/notion-gpts-autopilot/issues)

@@ -1,10 +1,10 @@
-# Notion GPTs Autopilot
+# 【テンプレ】NotionAPI (Read & Write)
 
 ChatGPTのGPTs機能を活用して、Notionのデータベースを自然言語で操作できる自動連携ツールです。
 
 ## 🌟 概要
 
-Notion GPTs Autopilotは、日常的な情報管理と記録作業を効率化するツールです。ChatGPTを「自然言語インターフェース」として活用し、Notionデータベースとの間で情報の読み書きを自動化します。
+【テンプレ】NotionAPI (Read & Write)は、日常的な情報管理と記録作業を効率化するツールです。ChatGPTを「自然言語インターフェース」として活用し、Notionデータベースとの間で情報の読み書きを自動化します。
 
 コーディング不要で、会話を通じてデータベースの操作や情報の管理が可能になります。
 
@@ -17,7 +17,7 @@ Notion GPTs Autopilotは、日常的な情報管理と記録作業を効率化�
 
 ## 🚀 利用方法
 
-1. [GPTsリンク](https://chat.openai.com/g/g-your-gpts-id)にアクセス
+1. [GPTsリンク](https://chatgpt.com/g/g-67f5f67b1004819180a5ba3e0749ab37-tenhure-notionapi-read-write)にアクセス
 2. Notionとの連携を許可する
 3. 自然言語で操作したい内容を伝える
    - 例: 「レシピデータベースを検索して」
@@ -36,5 +36,5 @@ MIT License
 
 ## 🔗 関連リンク
 
-- [プライバシーポリシー](https://あなたのユーザー名.github.io/notion-gpts-autopilot/privacy.html)
-- [利用規約](https://あなたのユーザー名.github.io/notion-gpts-autopilot/terms.html)
+- [プライバシーポリシー](https://rioto3.github.io/notion-gpts-autopilot/privacy.html)
+- [利用規約](https://rioto3.github.io/notion-gpts-autopilot/terms.html)
