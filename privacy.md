@@ -4,7 +4,7 @@
 
 ## はじめに
 
-Notion GPTs Autopilot（以下「本サービス」）は、ユーザーのプライバシーを尊重し、適用される全てのデータ保護法および関連法令を遵守することをお約束します。本プライバシーポリシーは、当サービスの利用に関連して収集、使用、開示される情報について説明します。
+【テンプレ】NotionAPI (Read & Write)（以下「本サービス」）は、ユーザーのプライバシーを尊重し、適用される全てのデータ保護法および関連法令を遵守することをお約束します。本プライバシーポリシーは、当サービスの利用に関連して収集、使用、開示される情報について説明します。
 
 ## 収集する情報
 
@@ -64,5 +64,4 @@ Notion GPTs Autopilot（以下「本サービス」）は、ユーザーのプ�
 
 本プライバシーポリシーに関するご質問やご意見は、以下の連絡先までお願いします：
 
-- メール: [あなたのメールアドレス]
-- GitHubリポジトリ: [https://github.com/あなたのユーザー名/notion-gpts-autopilot/issues](https://github.com/あなたのユーザー名/notion-gpts-autopilot/issues)
+- GitHubリポジトリ: [https://github.com/rioto3/notion-gpts-autopilot/issues](https://github.com/rioto3/notion-gpts-autopilot/issues)
